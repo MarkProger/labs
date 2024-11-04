@@ -1,0 +1,14 @@
+D:\NLTU\labs\OOAP\mk1\mk1\bin\Debug\net8.0\mk1.exe
+D:\NLTU\labs\OOAP\mk1\mk1\bin\Debug\net8.0\mk1.deps.json
+D:\NLTU\labs\OOAP\mk1\mk1\bin\Debug\net8.0\mk1.runtimeconfig.json
+D:\NLTU\labs\OOAP\mk1\mk1\bin\Debug\net8.0\mk1.dll
+D:\NLTU\labs\OOAP\mk1\mk1\bin\Debug\net8.0\mk1.pdb
+D:\NLTU\labs\OOAP\mk1\mk1\obj\Debug\net8.0\mk1.GeneratedMSBuildEditorConfig.editorconfig
+D:\NLTU\labs\OOAP\mk1\mk1\obj\Debug\net8.0\mk1.AssemblyInfoInputs.cache
+D:\NLTU\labs\OOAP\mk1\mk1\obj\Debug\net8.0\mk1.AssemblyInfo.cs
+D:\NLTU\labs\OOAP\mk1\mk1\obj\Debug\net8.0\mk1.csproj.CoreCompileInputs.cache
+D:\NLTU\labs\OOAP\mk1\mk1\obj\Debug\net8.0\mk1.dll
+D:\NLTU\labs\OOAP\mk1\mk1\obj\Debug\net8.0\refint\mk1.dll
+D:\NLTU\labs\OOAP\mk1\mk1\obj\Debug\net8.0\mk1.pdb
+D:\NLTU\labs\OOAP\mk1\mk1\obj\Debug\net8.0\mk1.genruntimeconfig.cache
+D:\NLTU\labs\OOAP\mk1\mk1\obj\Debug\net8.0\ref\mk1.dll
