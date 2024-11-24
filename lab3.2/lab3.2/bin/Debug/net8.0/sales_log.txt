@@ -1,0 +1,8 @@
+Sales log:
+18.11.2024 0:44:58: Sold item from food group, price: 12,60 UAH
+18.11.2024 0:44:58: Sold item from medicine group, price: 58,30 UAH
+18.11.2024 0:44:58: Sold item from clothing group, price: 54,05 UAH
+18.11.2024 0:44:58: Sold item from food group, price: 32,55 UAH
+18.11.2024 0:44:58: Sold item from clothing group, price: 111,55 UAH
+18.11.2024 0:44:58: Sold item from medicine group, price: 100,10 UAH
+18.11.2024 0:44:58: Sold item from food group, price: 18,90 UAH
