@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NLTU\\labs\\OOAP\\mk3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F720667-CFC6-4433-97DA-A3CC3BD24406}|mk3\\mk3.csproj|d:\\nltu\\labs\\ooap\\mk3\\mk3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F720667-CFC6-4433-97DA-A3CC3BD24406}|mk3\\mk3.csproj|solutionrelative:mk3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NLTU\\labs\\OOAP\\mk3\\mk3\\Program.cs",
+              "RelativeDocumentMoniker": "mk3\\Program.cs",
+              "ToolTip": "D:\\NLTU\\labs\\OOAP\\mk3\\mk3\\Program.cs",
+              "RelativeToolTip": "mk3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T00:13:05.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
