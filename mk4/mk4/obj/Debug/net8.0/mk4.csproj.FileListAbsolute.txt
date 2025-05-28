@@ -1,0 +1,14 @@
+D:\NLTU\labs\OOAP\mk4\mk4\bin\Debug\net8.0\mk4.exe
+D:\NLTU\labs\OOAP\mk4\mk4\bin\Debug\net8.0\mk4.deps.json
+D:\NLTU\labs\OOAP\mk4\mk4\bin\Debug\net8.0\mk4.runtimeconfig.json
+D:\NLTU\labs\OOAP\mk4\mk4\bin\Debug\net8.0\mk4.dll
+D:\NLTU\labs\OOAP\mk4\mk4\bin\Debug\net8.0\mk4.pdb
+D:\NLTU\labs\OOAP\mk4\mk4\obj\Debug\net8.0\mk4.GeneratedMSBuildEditorConfig.editorconfig
+D:\NLTU\labs\OOAP\mk4\mk4\obj\Debug\net8.0\mk4.AssemblyInfoInputs.cache
+D:\NLTU\labs\OOAP\mk4\mk4\obj\Debug\net8.0\mk4.AssemblyInfo.cs
+D:\NLTU\labs\OOAP\mk4\mk4\obj\Debug\net8.0\mk4.csproj.CoreCompileInputs.cache
+D:\NLTU\labs\OOAP\mk4\mk4\obj\Debug\net8.0\mk4.dll
+D:\NLTU\labs\OOAP\mk4\mk4\obj\Debug\net8.0\refint\mk4.dll
+D:\NLTU\labs\OOAP\mk4\mk4\obj\Debug\net8.0\mk4.pdb
+D:\NLTU\labs\OOAP\mk4\mk4\obj\Debug\net8.0\mk4.genruntimeconfig.cache
+D:\NLTU\labs\OOAP\mk4\mk4\obj\Debug\net8.0\ref\mk4.dll

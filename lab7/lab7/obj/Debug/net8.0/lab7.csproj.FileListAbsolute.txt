@@ -1,0 +1,14 @@
+D:\NLTU\labs\OOAP\lab7\lab7\bin\Debug\net8.0\lab7.exe
+D:\NLTU\labs\OOAP\lab7\lab7\bin\Debug\net8.0\lab7.deps.json
+D:\NLTU\labs\OOAP\lab7\lab7\bin\Debug\net8.0\lab7.runtimeconfig.json
+D:\NLTU\labs\OOAP\lab7\lab7\bin\Debug\net8.0\lab7.dll
+D:\NLTU\labs\OOAP\lab7\lab7\bin\Debug\net8.0\lab7.pdb
+D:\NLTU\labs\OOAP\lab7\lab7\obj\Debug\net8.0\lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\NLTU\labs\OOAP\lab7\lab7\obj\Debug\net8.0\lab7.AssemblyInfoInputs.cache
+D:\NLTU\labs\OOAP\lab7\lab7\obj\Debug\net8.0\lab7.AssemblyInfo.cs
+D:\NLTU\labs\OOAP\lab7\lab7\obj\Debug\net8.0\lab7.csproj.CoreCompileInputs.cache
+D:\NLTU\labs\OOAP\lab7\lab7\obj\Debug\net8.0\lab7.dll
+D:\NLTU\labs\OOAP\lab7\lab7\obj\Debug\net8.0\refint\lab7.dll
+D:\NLTU\labs\OOAP\lab7\lab7\obj\Debug\net8.0\lab7.pdb
+D:\NLTU\labs\OOAP\lab7\lab7\obj\Debug\net8.0\lab7.genruntimeconfig.cache
+D:\NLTU\labs\OOAP\lab7\lab7\obj\Debug\net8.0\ref\lab7.dll
